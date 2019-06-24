@@ -21,6 +21,10 @@ phonegap local plugin add cordova-plugin-app-name --variable APP_NAME="Look <Ma>
 ## How do I use it?
 Um ... See above :)
 
+## NB
+
+Drops support for Cordova < 5.4.0
+
 
 
 
